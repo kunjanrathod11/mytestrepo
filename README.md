@@ -21,11 +21,12 @@ Read Me File
 sh loganalysis.sh
 
  One of the GC appearence in the log:
-INFO GCInspector.java:284 - G1 Young Generation GC in 210ms.
+INFO x . x . GCInspector.java:XXX - G1 Young Generation GC in 110ms.
 
  The Number of GC events are :
 284
 
  The median value of the gc latency from all GC events is :
-237.5
+137.5
+
 ~~~ 
