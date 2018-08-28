@@ -13,3 +13,19 @@ Read Me File
 				        The Number of GC events are : 284
                 The median value of the gc latency from all GC events is : 237.5ms
 ~~~
+
+3. The `loganalysis.sh` is another way to perform the same operation using shell script.
+
+4. The output for the shell script is similar to:
+~~~
+sh loganalysis.sh
+
+ One of the GC appearence in the log:
+INFO GCInspector.java:284 - G1 Young Generation GC in 210ms.
+
+ The Number of GC events are :
+284
+
+ The median value of the gc latency from all GC events is :
+237.5
+~~~ 
