@@ -11,7 +11,7 @@ Read Me File
 ~~~
 	[unix@linux]$ java -jar DSGCEvents.jar /your/absolute/location/to/system.log
 				        The Number of GC events are : 284
-                The median value of the gc latency from all GC events is : 237.5ms
+                The median value of the gc latency from all GC events is : 137.5ms
 ~~~
 
 3. The `loganalysis.sh` is another way to perform the same operation using shell script.
