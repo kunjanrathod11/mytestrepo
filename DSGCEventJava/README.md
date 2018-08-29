@@ -1,6 +1,6 @@
-************************************
-READ-ME: GC Event Median Analysis
-************************************
+**************************************************
+# GC Event Median Analysis using Java Programming
+**************************************************
 
 ** Use the command to build the project:
 ~~~
@@ -13,7 +13,7 @@ mvn clean install
 
 1. Run the project DSGCEvents.jar with the following command:
 ~~~
-	java -jar DSGCEvents.jar
+	java -jar DSGCEventProject-X.X.X-SNAPSHOT.jar
 ~~~
 [note] : Place the system.log file in the resources folder or replace the one(Example) which already exists.
 
