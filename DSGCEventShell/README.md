@@ -1,6 +1,5 @@
-***************************************
 # GC Event Median Analysis using shell
-***************************************
+
 
 1. The `loganalysis.sh` is another way to perform the same operation using shell script.
 

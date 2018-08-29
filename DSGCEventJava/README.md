@@ -1,6 +1,5 @@
-**************************************************
 # GC Event Median Analysis using Java Programming
-**************************************************
+
 
 ** Use the command to build the project:
 ~~~
