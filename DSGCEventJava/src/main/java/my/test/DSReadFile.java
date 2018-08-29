@@ -44,8 +44,8 @@ public class DSReadFile {
 		
 		if(fileURL == null) {
 			
-		     System.out.println("Unable to locate log file, please check the name.");
-             System.exit(-3);
+				System.out.println("Unable to locate log file, please check the name.");
+				System.exit(-3);
 			
 		}
 		
